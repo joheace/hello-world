@@ -51,3 +51,4 @@ new Vue({
 }).$mount('#app')
 
 a
+b
