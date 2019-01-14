@@ -52,3 +52,4 @@ new Vue({
 
 a
 b
+c
